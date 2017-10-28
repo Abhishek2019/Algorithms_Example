@@ -53,7 +53,7 @@ UnaryCoding | :+1: | :+1: |  |  |  | :+1: |  |  |
 TernarySearch |  |  |  |  | :+1: |  |  |  |  
 Topological Sort |  |  |  |  | :+1: |  |  |  |  
 Segmented Sieve |:+1:| :+1: |  |  | :+1: |  |  |  |  
-
+FCFS Scheduling |  | :+1: |  |  |  |  |  |  |
 
 ### List of Algorithms :
 
@@ -770,6 +770,7 @@ Segmented Sieve |:+1:| :+1: |  |  | :+1: |  |  |  |
 * Ziggurat algorithm    :    generate random numbers from a non-uniform distribution
 
 * Zobrist hashing    :    used in the implementation of transposition tables
+* FCFS Scheduling     :  Used for scheduling Processes
 
 Folder structure should be
 [**Algorithm name**]/[**language**]/**file**  
